@@ -99,24 +99,18 @@ author:
   location         : "Seattle, WA"
   email            : #"JakeGilla@Tuta.io"
   links:
-    - label: "JakeGill@Tuta.io"
-      icon: "fas fa-fw fa-envelope-square"
+    - label: "E-mail"
+      icon: "fas fa-fw fa-envelope"
       url: "mailto:JakeGilla@Tuta.io"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "@JakeGilla"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/JakeGilla"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "JakeGilla-DL"
-      icon: "fab fa-fw fa-github"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in" 
+      url: "https://www.linkedin.com/in/JakeGilla/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github-alt"
       url: "https://github.com/JakeGilla-DL"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter"
+      url: "https://twitter.com/JakeGilla"
 
 # Site Footer
 footer:
@@ -279,3 +273,10 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true

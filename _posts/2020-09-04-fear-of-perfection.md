@@ -1,13 +1,13 @@
 ---
 title: Fear of Perfection
-subtitle: Resisting perfectionism and letting projects see the light
+excerpt: Resisting perfectionism and letting creative projects into the light
 date: 2020-09-04 02:47 +0000
 categories: [Writing, Personal]
 tags: design
 image:
 ---
 
-> *Have no fear of perfection - you'll never reach it.* -Salvador Dali
+> *"Have no fear of perfection - you'll never reach it."* -Salvador Dali
 
 ### **Designing in Fear**
 For me, the 'blank page', has never been as scary as the thought of the poorly written one.
