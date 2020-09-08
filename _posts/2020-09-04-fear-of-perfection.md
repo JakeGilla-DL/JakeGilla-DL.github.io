@@ -4,7 +4,6 @@ excerpt: Resisting perfectionism and letting creative projects into the light
 date: 2020-09-04 02:47 +0000
 categories: [Writing, Personal]
 tags: design
-image:
 ---
 
 > *"Have no fear of perfection - you'll never reach it."* -Salvador Dali

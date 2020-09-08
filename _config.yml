@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jake Did It!"
+title                    : 'Jake "Gilla" Gilfillan'
 title_separator          : "-"
-subtitle                 : # "A porfolio and blog for Jake "Gilla" Gilfillan"
-name                     : "Jake Gilfillan"
+subtitle                 : "Technical Designer & Programmer"
+name                     : "Jake S. Gilfillan"
 description              : "Technical Designer | Level Designer | Gameplay"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -96,7 +96,7 @@ author:
   name             : "Jake Gilfillan"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Technical Designer - Level Designer - Gameplay Programmer"
-  location         : "Seattle, WA"
+  location         : #"Seattle, WA"
   email            : #"JakeGilla@Tuta.io"
   links:
     - label: "E-mail"
@@ -106,7 +106,7 @@ author:
       icon: "fab fa-fw fa-linkedin-in" 
       url: "https://www.linkedin.com/in/JakeGilla/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github-alt"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/JakeGilla-DL"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter"

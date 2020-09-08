@@ -6,10 +6,9 @@ last_modified_at: 2020-09-07T10:15:22-04:00
 toc: true
 ---
 
-## About Me
 I like building stuff it is fun I will fill this in better as I go.
 
-## Technical Skillset
+### Technical Skillset
 Here's a blurb on the hardskills I've been working on over the last few years
 
 |-------------|------------------------------------------|
@@ -17,7 +16,7 @@ Here's a blurb on the hardskills I've been working on over the last few years
 | **Codes**   | C++, C#, JavaScript, Python              |
 | **Tools**   | Git, Perforce, Excel, LucidChart         |
 
-## Interpersonal and Soft Skills
+### Interpersonal and Soft Skills
 My time in IT has left me with a number of soft skills that has served me well when
 working on teams in creative pursuits.
  - A deep love and respect for ocumentation
