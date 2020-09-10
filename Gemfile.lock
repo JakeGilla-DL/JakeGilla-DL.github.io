@@ -112,8 +112,6 @@ GEM
       commonmarker (~> 0.17.6)
       jekyll-commonmark (~> 1.2)
       rouge (>= 2.0, < 4.0)
-    jekyll-compose (0.12.0)
-      jekyll (>= 3.7, < 5.0)
     jekyll-default-layout (0.1.4)
       jekyll (~> 3.0)
     jekyll-feed (0.13.0)
@@ -253,13 +251,10 @@ GEM
       ethon (>= 0.9.0)
     tzinfo (1.2.7)
       thread_safe (~> 0.1)
-    tzinfo-data (1.2020.1)
-      tzinfo (>= 1.0.0)
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.7.7-x64-mingw32)
     unicode-display_width (1.7.0)
-    wdm (0.1.1)
     zeitwerk (2.4.0)
 
 PLATFORMS
@@ -267,13 +262,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-compose
-  jekyll-feed (~> 0.12)
-  jekyll-remote-theme
   minimal-mistakes-jekyll
-  tzinfo (~> 1.2)
-  tzinfo-data
-  wdm (~> 0.1.1)
 
 BUNDLED WITH
    2.1.4
